@@ -2,9 +2,9 @@ let des = document.getElementById('des').getContext('2d')
 
 // definição das instâncias
 const f1 = new F1(260,460,70,120,'assets/img/carro_01.png')
-const c1= new Car(100,-100,70,120,'assets/img/carro_01.png')
-const c2 = new Car(250,-300,70,120,'assets/img/carro_01.png')
-const c3 = new Car(350,-500,70,120,'assets/img/carro_01.png')
+const c1= new Car(100,-100,70,120,'assets/img/carro_02.png')
+const c2 = new Car(250,-300,90,250,'assets/img/carro_03.png')
+const c3 = new Car(350,-500,70,120,'assets/img/carro_04.png')
 const bg_e = new Est_l(10,0,8,600,'white')
 const bg_d = new Est_l(580,0,8,600,'white')
 const bg_c1 = new Est_c(291,0,8,80,'yellow')
